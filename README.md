@@ -14,5 +14,6 @@ Fue lanzado inicialmente el 24 de agosto de 1995
 
 Para coincidir con el lanzamiento de Windows 95
 
-5. 
+5. Cuando se dejo de usar MSN?
 
+Los servicios de mensajería instantánea cerró sus salas el 31 de octubre de 2014
