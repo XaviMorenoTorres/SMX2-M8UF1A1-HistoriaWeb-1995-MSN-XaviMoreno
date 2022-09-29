@@ -21,3 +21,5 @@ Para coincidir con el lanzamiento de Windows 95
 _**5. Cuando se dejo de usar MSN?**_
 
 Los servicios de mensajería instantánea cerró sus salas el 31 de octubre de 2014
+
+![MSN](https://github.com/XaviMorenoTorres/SMX2-M8UF1A1-HistoriaWeb-1995-MSN-XaviMoreno/blob/main/msn-logo.png)
